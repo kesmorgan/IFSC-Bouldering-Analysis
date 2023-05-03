@@ -19,4 +19,4 @@ The following python libraries were used:
 
 ## Resources
 - Jupyter Scripts for all analysis are included
-- [Tableau Presentation](https://public.tableau.com/app/profile/katie1950/viz/IFSCBoulderingAnalysis/Story1) - link also included as a file
+- [Tableau Presentation](https://public.tableau.com/app/profile/katie1950/viz/IFSCBoulderingAnalysis/Story1) - does not include entire analysis, please see scripts for a more whole analysis
