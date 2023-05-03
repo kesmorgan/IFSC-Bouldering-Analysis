@@ -9,6 +9,7 @@
 ## Data
 - [Competition data](https://www.kaggle.com/datasets/brkurzawa/ifsc-sport-climbing-competition-results?resource=download) was downloaded from kaggle. Scraped from ifsc-climbing.org
 - Secondary data was personally given from a climbing gym. File in Data folder
+- [JSON file](https://datahub.io/core/geo-countries#resource-countries) dowloaded from datahub
 
 ## Tools
 The following python libraries were used:
